@@ -18,7 +18,8 @@ Tools & Technologies:
 ---------------------
 
 
-![alt-tag](/17-10-2015_Genero15-Drishti.jpeg)
+![alt-tag](https://github.com/Sarvesh18/Image-Processing/blob/master/OpenCV/17-10-2015_Genero15-Drishti.jpg)
+
 CONTACT ME @ 
 ------------
 #Website : https://sarvesh18.github.com/ <br>
