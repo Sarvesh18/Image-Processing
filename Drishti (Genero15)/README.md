@@ -5,7 +5,7 @@ Problem Statement:
 
 Project Link:
 -------------
-![Drishti] (https://github.com/Sarvesh18/Image-Processing/blob/master/Drishti%20(Genero15)/Drishti_.png)
+![Drishti](https://github.com/Sarvesh18/Image-Processing/blob/master/Drishti%20(Genero15)/Drishti_.png)
 
 
 Codes & Resources:
