@@ -5,7 +5,7 @@ Problem Statement:
 
 Project Link:
 -------------
-![Drishti](https://github.com/Sarvesh18/Image-Processing/blob/master/Drishti(Genero15)/Drishti_.png)
+![Drishti] (https://github.com/Sarvesh18/Image-Processing/blob/master/Drishti%20(Genero15)/Drishti_.png)
 
 
 Codes & Resources:
@@ -22,19 +22,11 @@ Visual Studio
 Designs & Prototypes:
 ---------------------
 
-![Drishti](https://www.youtube.com/watch?v=6-_vLEB5Y5Q&list=PLOerUtUR1hnem0Ct_6whTmFp1wE3oPFgh&index=1)
+
 CONTACT ME @ 
 ------------
-<<<<<<< HEAD
-#Web :** https://sarvesh18.github.com/ **<br>
-#Email :** sarvesh.singh18@hotmail.com **<br/>
-#Github :** https://github.com/Sarvesh18 **<br/>
-#Twitter :** https://twitter.com/sarvesh_smcs2 **<br/>
-#LinkedIn :** https://www.linkedin.com/in/sarvesh18 **<br/>
-=======
-#Website : https://sarvesh18.github.com/ <br>
+#Web : https://sarvesh18.github.com/ <br>
 #Email : sarvesh.singh18@hotmail.com <br/>
 #Github : https://github.com/Sarvesh18 <br/>
 #Twitter : https://twitter.com/sarvesh_smcs2 <br/>
 #LinkedIn : https://www.linkedin.com/in/sarvesh18 <br/>
->>>>>>> 531d9a179a02e191bea4e74f8831aea25f61aa28

@@ -14,31 +14,19 @@ Codes & Resources:
 
 Tools & Technologies:
 ---------------------
-C++
-OpenCV
-Visual Studio
+>C++
+>OpenCV
+>Visual Studio
 
 
 Designs & Prototypes:
 ---------------------
 
 
-<<<<<<< HEAD
 CONTACT ME @ 
 ------------
-#Web :** https://sarvesh18.github.com/ **<br>
-#Email :** sarvesh.singh18@hotmail.com **<br/>
-#Github :** https://github.com/Sarvesh18 **<br/>
-#Twitter :** https://twitter.com/sarvesh_smcs2 **<br/>
-#LinkedIn :** https://www.linkedin.com/in/sarvesh18 **<br/>
-=======
-![alt-tag](https://github.com/Sarvesh18/Image-Processing/blob/master/OpenCV/17-10-2015_Genero15-Drishti.jpg)
-
-CONTACT ME @ 
-------------
-#Website : https://sarvesh18.github.com/ <br>
+#Web : https://sarvesh18.github.com/ <br>
 #Email : sarvesh.singh18@hotmail.com <br/>
 #Github : https://github.com/Sarvesh18 <br/>
 #Twitter : https://twitter.com/sarvesh_smcs2 <br/>
 #LinkedIn : https://www.linkedin.com/in/sarvesh18 <br/>
->>>>>>> 531d9a179a02e191bea4e74f8831aea25f61aa28
