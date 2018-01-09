@@ -23,7 +23,7 @@ Designs & Prototypes:
 ---------------------
 ![Drishti](https://github.com/Sarvesh18/Image-Processing/blob/master/Drishti%20(Genero15)/Drishti_.png)
 
-CONTACT ME @ 
+Get IN Touch
 ------------
 >Web : https://sarvesh18.github.com/ <br>
 >Email : sarvesh.singh18@hotmail.com <br/>
