@@ -5,7 +5,7 @@ Problem Statement:
 
 Project Link:
 -------------
-![Drishti](https://github.com/Sarvesh18/Image-Processing/blob/master/Drishti%20(Genero15)/Drishti_.png)
+[YouTube](https://www.youtube.com/watch?v=6-_vLEB5Y5Q)
 
 
 Codes & Resources:
@@ -21,7 +21,7 @@ Visual Studio <br>
 
 Designs & Prototypes:
 ---------------------
-
+![Drishti](https://github.com/Sarvesh18/Image-Processing/blob/master/Drishti%20(Genero15)/Drishti_.png)
 
 CONTACT ME @ 
 ------------

@@ -5,7 +5,7 @@ Problem Statement:
 
 Project Link:
 -------------
-![OpenCV](https://github.com/Sarvesh18/Image-Processing/blob/master/OpenCV/OpenCV.jpg)
+[YouTube](https://www.youtube.com/watch?v=6-_vLEB5Y5Q)
 
 
 Codes & Resources:
@@ -21,7 +21,7 @@ Visual Studio <br>
 
 Designs & Prototypes:
 ---------------------
-
+![OpenCV](https://github.com/Sarvesh18/Image-Processing/blob/master/OpenCV/OpenCV.jpg)
 
 CONTACT ME @ 
 ------------
