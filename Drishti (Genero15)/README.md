@@ -5,7 +5,7 @@ Problem Statement:
 
 Project Link:
 -------------
-[YouTube](https://www.youtube.com/watch?v=6-_vLEB5Y5Q)
+[YouTube](https://youtu.be/QYMIvMf_oRk)
 
 
 Codes & Resources:
@@ -23,10 +23,9 @@ Designs & Prototypes:
 ---------------------
 ![Drishti](https://github.com/Sarvesh18/Image-Processing/blob/master/Drishti%20(Genero15)/Drishti_.png)
 
-Get IN Touch
+Get IN Touch 
 ------------
->Web : https://sarvesh18.github.com/ <br>
->Email : sarvesh.singh18@hotmail.com <br/>
->Github : https://github.com/Sarvesh18 <br/>
->Twitter : https://twitter.com/sarvesh_smcs2 <br/>
->LinkedIn : https://www.linkedin.com/in/sarvesh18 <br/>
+Web : https://sarvesh18.github.io <br>
+Email : sarvesh.singh18@hotmail.com <br>
+Github : https://www.github.com/sarvesh18 <br>
+LinkedIn : https://www.linkedin.com/in/sarvesh18 <br>
